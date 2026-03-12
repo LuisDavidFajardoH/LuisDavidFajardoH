@@ -1,12 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Luis%20David%20Fajardo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Lead%20%40%2099%20Envios%20%7C%20iOS%20%26%20Web%20Developer%20%7C%20Bogot%C3%A1%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=58&descSize=16&descColor=d0b4fe)
+![header](./header.svg)
 
-</div>
-
-<div align="center">
-
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Front-End+Lead+%40+99+Envios+%F0%9F%93%A6;React+%7C+TypeScript+%7C+Angular;Swift+%7C+SwiftUI+%7C+iOS+%F0%9F%93%B1;1%2C933%2B+contributions+%F0%9F%94%A5)](https://github.com/LuisDavidFajardoH)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Front-End+Lead+%40+99+Envios;React+%7C+TypeScript+%7C+Angular;Swift+%7C+SwiftUI+%7C+iOS;1%2C933%2B+contributions+%F0%9F%94%A5)](https://github.com/LuisDavidFajardoH)
 
 [![views](https://komarev.com/ghpvc/?username=LuisDavidFajardoH&style=flat-square&color=a855f7&label=profile+views)](https://github.com/LuisDavidFajardoH)
 [![followers](https://img.shields.io/github/followers/LuisDavidFajardoH?style=flat-square&color=a855f7)](https://github.com/LuisDavidFajardoH?tab=followers)
@@ -118,7 +114,7 @@ struct LuisDavid {
 | 👟 **sneakers** | E-commerce con UI premium | JS · HTML · CSS | ⚪ Showcase |
 | 🧠 **Mind** | Proyecto frontend experimental | JavaScript | ⚪ Showcase |
 
-> 🔒 Más de **20 proyectos privados** en 99 Envios y otras empresas se reflejan en las stats de arriba.
+> 🔒 Más de **20 proyectos privados** en 99 Envios se reflejan en las stats de arriba.
 
 ---
 
@@ -126,7 +122,7 @@ struct LuisDavid {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge)](https://portafoliodavid-ce969.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafoliodavid-ce969.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-fajardo-herrera)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisDavidFajardoH)
 
@@ -135,9 +131,5 @@ struct LuisDavid {
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
-
 <sub><i>Crafted with ❤️ in Bogotá · LuisDavidFajardoH · 2026</i></sub>
-
 </div>
