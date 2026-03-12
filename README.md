@@ -84,8 +84,7 @@ struct LuisDavid {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LuisDavidFajardoH&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=midnight-purple&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavidFajardoH&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
+
 
 </div>
 
