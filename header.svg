@@ -1,0 +1,33 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#1a1040"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:0.3"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#6d28d9;stop-opacity:0.5"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a855f7"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,140 C150,100 300,160 450,120 C600,80 750,140 900,110 L900,200 L0,200 Z" fill="url(#wave1)"/>
+  <path d="M0,160 C200,130 400,175 600,145 C750,120 850,155 900,140 L900,200 L0,200 Z" fill="url(#wave2)"/>
+  <rect x="0" y="0" width="900" height="3" fill="url(#accent)"/>
+  <rect x="0" y="197" width="900" height="3" fill="url(#accent)"/>
+  <text x="450" y="78" font-family="'Segoe UI', Arial, sans-serif" font-size="40" font-weight="700" fill="#f1f5f9" text-anchor="middle" letter-spacing="1">Luis David Fajardo H.</text>
+  <text x="450" y="112" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#c4b5fd" text-anchor="middle" letter-spacing="2">FRONT-END LEAD  &#183;  99 ENVIOS  &#183;  iOS &#38; WEB DEVELOPER</text>
+  <text x="450" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle" letter-spacing="1">Bogot&#225;, Colombia &#127464;&#127476;</text>
+  <circle cx="60" cy="50" r="30" fill="#7c3aed" opacity="0.15"/>
+  <circle cx="840" cy="150" r="40" fill="#a855f7" opacity="0.1"/>
+  <circle cx="820" cy="40" r="15" fill="#6d28d9" opacity="0.2"/>
+  <circle cx="80" cy="160" r="20" fill="#a855f7" opacity="0.12"/>
+</svg>
