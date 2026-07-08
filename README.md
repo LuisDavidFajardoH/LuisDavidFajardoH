@@ -1,51 +1,170 @@
+```markdown
 <div align="center">
 
-![header](./header.svg?v=3)
+<br>
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E30613&center=true&vCenter=true&width=650&lines=Senior+React+Native+Developer+%40+Redarbor;React+Native+%7C+Expo+%7C+TypeScript;Swift+%7C+SwiftUI+%7C+iOS;Building+mobile+experiences)](https://github.com/LuisDavidFajardoH)
+# Luis David Fajardo Herrera
 
-[![views](https://komarev.com/ghpvc/?username=LuisDavidFajardoH&style=flat-square&color=e30613&label=profile+views)](https://github.com/LuisDavidFajardoH)
+**Senior React Native Developer** · Redarbor
 
-[![followers](https://img.shields.io/github/followers/LuisDavidFajardoH?style=flat-square&color=e30613)](https://github.com/LuisDavidFajardoH?tab=followers)
+Bogotá, Colombia 🇨🇴
+
+<br>
+
+[Portfolio](https://portafoliodavid-ce969.web.app/) · [LinkedIn](https://www.linkedin.com/in/david-fajardo-herrera/) · [GitHub](https://github.com/LuisDavidFajardoH)
+
+<br>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<br>
 
-```swift
-struct LuisDavid {
+### About
 
-    let name = "Luis David Fajardo Herrera"
+I build mobile experiences with React Native, Expo and native iOS. My focus is clean architecture, performance and interfaces that feel native rather than hybrid. Currently leading mobile development at Redarbor, with a background spanning full-stack web development. I care about code that is simple to read, simple to test and simple to change.
 
-    let role = "Senior React Native Developer"
+<br>
 
-    let company = "Redarbor 🇪🇸"
+---
 
-    let location = "Bogotá, Colombia 🇨🇴"
+<br>
 
-    let ecosystem = [
-        "React Native",
-        "Expo",
-        "iOS",
-        "Web"
-    ]
+### Currently
 
-    let focus = [
-        "Cross-platform mobile development",
-        "Scalable React Native architecture",
-        "Native iOS development with Swift & SwiftUI",
-        "Performance optimization",
-        "Clean Architecture",
-        "Reusable components"
-    ]
+- Building mobile experiences at **Redarbor**
+- Learning **SwiftUI**
+- Exploring **AI-powered apps**
+- Open to interesting collaborations
 
-    let building = [
-        "HR Tech products used by millions of people",
-        "Cross-platform mobile experiences",
-        "AI-powered personal projects"
-    ]
+<br>
 
-    let funFact = "Most of my code lives in private repositories 🔒"
-}
+---
+
+<br>
+
+### Tech Stack
+
+**Mobile**
+`React Native` `Expo` `Swift` `SwiftUI`
+
+**Frontend**
+`React` `TypeScript` `Angular` `Next.js`
+
+**Backend**
+`Node.js` `Laravel` `PHP` `Python`
+
+**Data**
+`PostgreSQL` `MySQL` `MongoDB` `Firebase`
+
+**Tools**
+`Git` `Docker` `Figma` `Xcode`
+
+<br>
+
+---
+
+<br>
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuisDavidFajardoH&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=E30613&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDavidFajardoH&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" width="48%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisDavidFajardoH&hide_border=true&background=0D1117&stroke=0D1117&ring=E30613&fire=E30613&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="60%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidFajardoH&bg_color=0D1117&color=8B949E&line=E30613&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="90%" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**D-AI**
+AI-powered mobile application.
+[View repository](https://github.com/LuisDavidFajardoH)
+
+</td>
+<td width="50%" valign="top">
+
+**Portfolio**
+Personal portfolio and case studies.
+[View live](https://portafoliodavid-ce969.web.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Sneakers**
+E-commerce mobile experience.
+[View repository](https://github.com/LuisDavidFajardoH)
+
+</td>
+<td width="50%" valign="top">
+
+**Mind**
+Productivity / wellness app.
+[View repository](https://github.com/LuisDavidFajardoH)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Professional work**
+Private repositories — enterprise mobile applications built at Redarbor and 99 Envíos.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+### Experience
+
+**Senior React Native Developer** — Redarbor
+2026 — Present
+
+**Front-End Lead** — 99 Envíos
+2024 — 2026
+
+**Frontend Developer** — HouseMedia
+2022 — 2023
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Contact
+
+[Portfolio](https://portafoliodavid-ce969.web.app/) · [LinkedIn](https://www.linkedin.com/in/david-fajardo-herrera/) · [GitHub](https://github.com/LuisDavidFajardoH)
+
+<br>
+
+</div>
+```
