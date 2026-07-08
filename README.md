@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](./header.svg)
+![header](./header.svg?v=2)
 
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Senior+React+Native+Developer+%40+Redarbor;React+Native+%7C+Expo+%7C+TypeScript;Swift+%7C+SwiftUI+%7C+iOS;Building+mobile+experiences+%F0%9A%80)](https://github.com/LuisDavidFajardoH)
 
