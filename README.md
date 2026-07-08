@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <br>
@@ -167,4 +166,3 @@ Private repositories — enterprise mobile applications built at Redarbor and 99
 <br>
 
 </div>
-```
